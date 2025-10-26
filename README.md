@@ -20,6 +20,9 @@ Technologies Used
 
 HTML, CSS, JavaScript.
 
+🔹 How to view
+
+You can acess my udemy-clone project by visiting  () free to explore the content and get in touch!
 
 Contributing
 
